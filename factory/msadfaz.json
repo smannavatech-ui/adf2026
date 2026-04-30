@@ -1,0 +1,15 @@
+{
+	"name": "msadfaz",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8fead824-da8d-4d3e-9d31-7e85bb77a8e9",
+		"tenantId": "9c48c5d2-4485-4617-abb1-b0bcbea7f836"
+	}
+}
